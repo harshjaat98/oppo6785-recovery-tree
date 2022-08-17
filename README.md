@@ -1,0 +1,2 @@
+# oppo6785-recovery-tree
+THIS IS RECOVERY TREE BASED ON RUI 2
