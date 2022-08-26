@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/alps/oppo6785
+DEVICE_PATH := device/realme/oppo6785
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -57,7 +57,7 @@ BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 BOARD_KERNEL_IMAGE_NAME := Image.gz
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
-TARGET_KERNEL_SOURCE := kernel/alps/oppo6785
+TARGET_KERNEL_SOURCE := kernel/realme/oppo6785
 TARGET_KERNEL_CONFIG := oppo6785_defconfig
 
 # Platform
