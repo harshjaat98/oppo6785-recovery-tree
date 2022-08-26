@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/alps/oppo6785
+LOCAL_PATH := device/realme/oppo6785
